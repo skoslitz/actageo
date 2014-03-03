@@ -17,4 +17,4 @@ static-url-data                   : /data/
 static-url-font                    : /font/
 static-url-upload                  : /upload/
 
-static-accepts                     : .jpg,.png,.gif,.ico,.js,.css,.txt,.xml,.woff,.ttf,.eot,.svg,.zip,.rar,.pdf,.json,.tsv
+static-accepts                     : .jpg,.png,.gif,.ico,.js,.css,.txt,.xml,.woff,.ttf,.eot,.otf,.svg,.zip,.rar,.pdf,.json,.tsv

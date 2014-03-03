@@ -1,3 +1,16 @@
-h1 {
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
 	font-family: 'News Cycle', sans-serif;
+}
+a {
+	color: #307E42;
+}
+a:hover {
+	color: #307E42;
+}
+.fa-colorGreen {
+	color: #307E42;
 }
